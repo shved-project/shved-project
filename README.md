@@ -36,7 +36,7 @@
 
 -   **Описание**: Проект с возможностью регистрации, авторизации, выкладывания постов
 -   **Технологии**: React, Typescript, React Router, Tailwind CSS, Axios, Framer Motion(React-библиотека для анимаций), Vite.
--   **Ссылка**: <a href="https://github.com/shved-project/Posts.git" target="_blanc">Github Repo</a> | <a href="https://heroic-dango-05c6c6.netlify.app/"  target="_blanc">Демо</a>
+-   **Ссылка**: <a href="https://github.com/shved-project/Posts.git">Github Repo</a> | <a href="https://heroic-dango-05c6c6.netlify.app/" >Демо</a>
 
 ### **Проект 2: Shoes**
 
