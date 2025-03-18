@@ -46,13 +46,14 @@
 
 ### **Проект 3: Tealuxe**
 
--   **Описание**: Демонстрация навыков вёрстки по макету figma
+-   **Описание**: Демонстрация навыков вёрстки по макету figma. Лендинг для чайного магазина с адаптивным дизайном.
+
 -   **Технологии**: HTML, SCSS, JS
 -   **Ссылка**: <a href="https://github.com/shved-project/Tealuxe.git">Github Repo</a> | <a href="https://grand-ganache-1410c5.netlify.app/">Демо</a>
 
 ### **Проект 4: Tasks**
 
--   **Описание**: Проект с возможностью добавления, редактирования, удаления и выполнения задач. Есть раздел истории. Всё работает с localStorage
+-   **Описание**: Приложение для управления задачами с использованием localStorage
 -   **Технологии**: HTML, SCSS, JS
 -   **Ссылка**: <a href="https://github.com/shved-project/Tasks.git">Github Repo</a> | <a href="https://serene-profiterole-f7ed20.netlify.app/">Демо</a>
 
