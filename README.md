@@ -1,68 +1,86 @@
-<h1 align="center">Привет
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="35" height="35" /></h1>
-<h3 align="center">Меня зовут Александр, мне 25 лет. <br> Добро пожаловать в мой профиль!</h3>
+<h1 align="center">Привет 👋</h1>
+<h3 align="center">Меня зовут Александр, и я frontend-разработчик</h3>
 
 ---
 
-<div align="center"><img src="https://i.pinimg.com/originals/9f/75/a7/9f75a735e474d9b8c127fd5383717f44.gif" width="400" align="center"></div>
+## Обо мне <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="35" />
 
-## Коротко обо мне <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="35" />
+Я frontend-разработчик с опытом создания адаптивных и интерактивных пользовательских интерфейсов. Я стремлюсь писать чистый, поддерживаемый и эффективный код, а также постоянно изучаю новые технологии и подходы к разработке.
 
-**_Я - frontend разработчик с большими амбициями и огромным желанием реализовать свой потенциал._**
-
-Учусь в области IT самостоятельно, читаю очень много документации из различных источников, смотрю интересующие видео и пробую изученные технологии на практике.
-
-Платные курсы не проходил, а это значит, что **все мои проекты написаны от души и с любовью лично мной** :heart:
+Сейчас я ищу возможность присоединиться к команде, где смогу применять свои навыки, учиться у опытных коллег и вносить вклад в создание качественных продуктов.
 
 ---
 
-**_Я молодой, очень целеустремлённый, стрессоустойчивый и инициативный!_**
+## Мой стек технологий <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="35" />
 
-Люблю изучать новые технологии и доводить начатое дело до конца. Умею работать в команде и не боюсь залезть в чужой код и разобраться в нём <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" />
-
----
-
-## Технологии, которые я использую <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="35" />
-
- <div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/410px-Vitejs-logo.svg.png?20220412224743" alt="vite" width="40" height="40"/>
- <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/file-json-color-green-icon.png" alt="json" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" alt="npm" width="60"/>
- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
- </div>
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="50" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/410px-Vitejs-logo.svg.png?20220412224743" alt="vite" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+</div>
 
 ---
 
 ## Мои проекты <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Artist%20Palette.webp" alt="Artist Palette" width="35" />
 
-В своих проектах делаю упор на качество структуры и читаемости кода, а также не забываю о документации.
-Приятного просмотра <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Eyes.webp" alt="Eyes" width="25" height="25" />
+В своих проектах я уделяю особое внимание качеству кода, читаемости и производительности. Вот несколько примеров:
 
-(Список проектов)
+### **Проект 1: Posts**
 
----
+-   **Описание**: Проект с возможностью регистрации, авторизации, выкладывания постов
+-   **Технологии**: React, Typescript, React Router, Tailwind CSS, Axios, Framer Motion(React-библиотека для анимаций), Vite.
+-   **Ссылка**: <a href="https://github.com/shved-project/Posts.git">Github Repo</a> | <a href="https://heroic-dango-05c6c6.netlify.app/">Демо</a>
 
-## Связаться со мной <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telephone%20Receiver.webp" alt="Telephone Receiver" width="35" />
+### **Проект 2: Shoes**
 
-<a href="https://t.me/shved_project" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="telegram" width="40" />
-</a>
-<a href="https://vk.com/shurtic" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/VK_Compact_Logo_%282021-present%29.svg" alt="vk" width="40" />
-</a>
-<a href="https://wa.me/+79197345443/" target="_blank">
-<img src="https://cdn4.iconfinder.com/data/icons/miu-square-flat-social/60/whatsapp-square-social-media-512.png" alt="whatsapp" width="40" />
-</a>
+-   **Описание**: Интернет-магазин обуви с возможностью добавления товаров и фильтрации.
+-   **Технологии**: HTML, SCSS, Bootstrap, Axios, Vite.
+-   **Ссылка**: <a href="https://github.com/shved-project/Shoes.git">Github Repo</a> | <a href="https://heroic-starburst-88af76.netlify.app/">Демо</a>
+
+### **Проект 3: Tealuxe**
+
+-   **Описание**: Демонстрация навыков вёрстки по макету figma
+-   **Технологии**: HTML, SCSS, JS
+-   **Ссылка**: <a href="https://github.com/shved-project/Tealuxe.git">Github Repo</a> | <a href="https://grand-ganache-1410c5.netlify.app/">Демо</a>
+
+### **Проект 4: Tasks**
+
+-   **Описание**: Проект с возможностью добавления, редактирования, удаления и выполнения задач. Есть раздел истории. Всё работает с localStorage
+-   **Технологии**: HTML, SCSS, JS
+-   **Ссылка**: <a href="https://github.com/shved-project/Tasks.git">Github Repo</a> | <a href="https://serene-profiterole-f7ed20.netlify.app/">Демо</a>
 
 ---
 
 ## Мои планы по обучению на ближайшее время <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="35" />
 
--   Изучить Next.js
--   Изучить TypeScript
--   Изучить Node.js
+-   Изучение **Redux** и **MobX** для управления состоянием.
+-   Освоение **Next.js** для SSR и SSG.
+
+---
+
+## Связаться со мной <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telephone%20Receiver.webp" alt="Telephone Receiver" width="35" />
+
+Я открыт для новых возможностей и сотрудничества. Если у вас есть предложения или вопросы, свяжитесь со мной:
+
+<a href="https://t.me/shved_project" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="telegram" width="40" />
+</a>
+<a href="https://vk.com/shurtic" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/VK_Compact_Logo_%282021-present%29.svg" alt="vk" width="40" />
+</a>
+<a href="https://wa.me/+79197345443/" target="_blank">
+  <img src="https://cdn4.iconfinder.com/data/icons/miu-square-flat-social/60/whatsapp-square-social-media-512.png" alt="whatsapp" width="40" />
+</a>
+
+---
+
+## Ищу работу! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" alt="Briefcase" width="35" />
+
+В данный момент я активно ищу работу или стажировку в качестве frontend-разработчика. Если у вас есть подходящие вакансии или проекты, пожалуйста, свяжитесь со мной — я буду рад обсудить сотрудничество!
