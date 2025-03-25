@@ -34,9 +34,9 @@
 
 ### **Проект 1: Posts**
 
--   **Описание**: Проект с возможностью регистрации, авторизации, выкладывания постов
+-   **Описание**: Проект с поддержкой регистрации, авторизации и полного набора CRUD-операций для управления постами.
 -   **Технологии**: React, Typescript, React Router, Tailwind CSS, Axios, Framer Motion(React-библиотека для анимаций), Vite.
--   **Ссылка**: <a href="https://github.com/shved-project/Posts.git">Github Repo</a> | <a href="https://spiffy-kringle-a63ae4.netlify.app/" >Демо</a>
+-   **Ссылка**: <a href="https://github.com/shved-project/Posts.git">Github Repo</a> | <a href="https://silver-banoffee-20301a.netlify.app/auth" >Демо</a>
 
 ### **Проект 2: Shoes**
 
